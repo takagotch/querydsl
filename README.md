@@ -5,7 +5,7 @@ https://github.com/querydsl/querydsl
 http://www.querydsl.com/
 
 ```java
-//
+// querydsl-core/src/test/java/com/querydsl/core/serialization/SerializerBase.java
 
 public class SerializerBaseTest {
   
